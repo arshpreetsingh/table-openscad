@@ -1,0 +1,9 @@
+cube([4,4,4]);
+translate([8,0,0])
+cube([4,4,4]);
+translate([8,0,8])
+cube([4,4,4]);
+translate([0,0,8])
+cube([4,4,4]);
+translate([0,4,0])
+cube(12,1,0);
